@@ -1,1 +1,41 @@
-<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg"><path style="fill:#666;fill-opacity:1;stroke:none" d="M24.777 14.857a10.491 10.491 0 1 1-20.982 0 10.491 10.491 0 1 1 20.982 0z" transform="translate(2.532 2.23) scale(.59149)"/><path style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:.591489" d="M4.855 10.518a6.205 6.205 0 0 0-.078.5 6.205 6.205 0 0 0 6.205 6.205 6.205 6.205 0 0 0 6.206-6.205 6.205 6.205 0 0 0-.043-.278 6.205 6.205 0 0 1-6.163 5.483 6.205 6.205 0 0 1-6.127-5.705z"/><path style="fill:#7e8087;fill-opacity:1;stroke:none;stroke-width:.591489" d="M10.982 4.813a6.205 6.205 0 0 0-6.205 6.205 6.205 6.205 0 0 0 .078.5 6.205 6.205 0 0 1 6.127-5.706 6.205 6.205 0 0 1 6.125 5.706 6.205 6.205 0 0 0 .08-.5 6.205 6.205 0 0 0-6.205-6.206z"/><path transform="translate(2.532 2.23) scale(.59149)" d="M24.777 14.857a10.491 10.491 0 1 1-20.982 0 10.491 10.491 0 1 1 20.982 0z" style="fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1;stroke-width:1.69064746;stroke-miterlimit:4;stroke-dasharray:none"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="xopp-thickness-thick.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="28.636364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g828" />
+  <g
+     id="g828"
+     transform="translate(3.631746,-1031.3049)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.3318249,1042.3049 H 11.404683"
+       id="path855" />
+  </g>
+</svg>
